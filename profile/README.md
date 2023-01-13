@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/osu-pulse/.github/blob/main/assets/icon.png?raw=true" width="100" />
+    <img src="https://github.com/osu-pulse/.github/blob/main/assets/icon.png?raw=true" width="200" />
 </div>
 
 # Welcome to the osu! Pulse organization!
@@ -13,7 +13,7 @@ The audio player for osu!
 * 🛠 Remote control devices
 
 ## Demands
-<img src="https://github.com/osu-pulse/.github/blob/main/assets/demands.png?raw=true" width="500" />
+<img src="https://github.com/osu-pulse/.github/blob/main/assets/demands.png?raw=true" width="1000" />
 
 ## Contributors
 
