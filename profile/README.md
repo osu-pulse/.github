@@ -17,6 +17,12 @@ The audio player for osu!
     <img src="https://github.com/osu-pulse/.github/blob/main/assets/demands.png?raw=true" width="1000" />
 </a>
 
+## Links
+
+* ### [Figma](https://www.figma.com/files/team/1195726117118453807)
+* ### [Postman](https://www.postman.com/t1team/workspace/osu-pulse)
+
+
 ## Contributors
 
 * [T1GIT](https://github.com/t1git)
