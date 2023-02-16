@@ -19,8 +19,8 @@ The audio player for osu!
 
 ## Links
 
-* ### [Figma](https://www.figma.com/files/team/1195726117118453807)
-* ### [Postman](https://www.postman.com/t1team/workspace/osu-pulse)
+* [Figma](https://www.figma.com/files/team/1195726117118453807)
+* [Postman](https://www.postman.com/t1team/workspace/osu-pulse)
 
 
 ## Contributors
